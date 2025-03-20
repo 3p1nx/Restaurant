@@ -83,7 +83,7 @@ public class Restaurant {
 
 	public void showTotalIncome() {
 		System.out.println("========================================");
-		System.out.println("Restaurant Total Income : " + formatIDR(totalIncome));
+		System.out.println(nama+ " Total Income : " + formatIDR(totalIncome));
 		System.out.println("========================================");
 	}
 	
